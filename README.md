@@ -1,2 +1,2 @@
 # mastercleaner
-a simple, case specific, pandas script that selectivelly removes duplicates. Will implement more case specific features
+a simple, case specific, pandas script that selectivelly removes unwanted duplicates and preserves correlated ones. Will implement more case specific features
